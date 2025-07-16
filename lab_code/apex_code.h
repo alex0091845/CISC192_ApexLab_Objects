@@ -54,7 +54,7 @@ public:
 	// Add getters
 	//
 
-	void print();
+	void Print();
 private:
 	ZodiacSign();
 
